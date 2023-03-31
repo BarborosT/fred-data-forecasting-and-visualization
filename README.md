@@ -10,4 +10,4 @@ The CPI can be used to recognize periods of inflation and deflation. Significant
 
 
 
-General rights holder of the codes [Youtube Channel](https://www.youtube.com/@ronithanalytics).
+Inspired while coding [Youtube Channel](https://www.youtube.com/@ronithanalytics).
